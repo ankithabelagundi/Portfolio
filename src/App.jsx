@@ -231,6 +231,14 @@ const sendEmail = (e) => {
         <FaGithub />
         View Code
       </a>
+       <a
+    href="https://enviometeor.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center gap-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition"
+  >
+    Live Demo
+  </a>
     </div>
 
   
@@ -249,6 +257,14 @@ const sendEmail = (e) => {
         <FaGithub />
         View Code
       </a>
+         <a
+    href="https://hms-frontend-g9m3n05yd-ankitha-rbs-projects.vercel.app"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center gap-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition"
+  >
+    Live Demo
+  </a>
     </div>
 
   </div>
