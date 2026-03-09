@@ -142,7 +142,7 @@ const sendEmail = (e) => {
 
       {/* Resume Button */}
       <a
-        href="https://drive.google.com/file/d/1zdhqgKJSA7USM0z1O2WkWiCOuN83Nj1j/view?usp=sharing"
+        href="https://drive.google.com/file/d/1M_Yqj5QV8-I1FDQlCWttsGSvAkn6ikIA/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block bg-sky-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-sky-700 transition font-medium"
@@ -235,13 +235,13 @@ const sendEmail = (e) => {
 
   
     <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-xl transition border border-sky-200">
-      <h3 className="text-xl font-semibold mb-2">AI Time Tracker</h3>
+      <h3 className="text-xl font-semibold mb-2">Hospital Management System</h3>
       <p className="text-gray-600 mb-4">
-        Productivity tracking application built using Supabase and Firebase with real-time updates.
+       System to manage patients, doctors, appointments, and billing.
       </p>
 
       <a
-        href="https://github.com/ankithabelagundi/time-tracker-2"
+        href="https://github.com/ankithabelagundi/HMS-Frontend"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-2 bg-sky-600 text-white px-4 py-2 rounded-lg hover:bg-sky-700 transition"
